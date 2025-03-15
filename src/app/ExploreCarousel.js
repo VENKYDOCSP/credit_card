@@ -152,7 +152,7 @@ function ExploreCarousel() {
                                                 <li><b>3X Rewards</b> – Points on UPI, contactless and Pay by 3 merchants.</li>
                                                 <li>Introductory Low interest rate of 0.99% p.m. for first 3 months.</li>
                                                 <li>Earn 1 RP on every Rs.100 spent (1 RP = 15 Paise).</li>
-                                                <li>E1% Fuel surcharge waiver up to Rs.1200 in a year</li>
+                                                <li>1% Fuel surcharge waiver up to Rs.1200 in a year</li>
                                                 <li>Joining & Annual Fees - Rs.500 + GST.</li>
 
                                             </ul>
