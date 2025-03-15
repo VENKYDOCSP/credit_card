@@ -193,10 +193,10 @@ const Form = () => {
                 </div>
 
 
-                {/* ReCaptcha Placeholder */}
+                {/* ReCaptcha Placeholder 
                 <div className="flex ms-1">
                     <div className="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>
-                </div>
+                </div>*/}
 
                 {/* Submit Button */}
                 <div className="text-center" data-aos="fade-left">

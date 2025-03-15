@@ -62,7 +62,7 @@ function ExploreCarousel() {
                                         <div className="" >
                                             <div className="xplore-txt ct1r">
                                                 <p>PowerMiles Credit Card </p>
-                                                <p>  Experience the Power of choice!.</p>
+                                                <p>  Experience the Power of Choice!</p>
                                             </div>
                                             <div className="xplore-txt-card ct2r">
                                                 <p >Features</p>
